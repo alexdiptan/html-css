@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.block {
+    border: 1px solid #000;
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-bottom: 60px;
+}
+
+.heading {
+    margin-top: 50px;
+}
