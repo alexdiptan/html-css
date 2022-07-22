@@ -147,8 +147,6 @@ body {
     display: flex;
 }
 
-.project {}
-
 .project__img {
     width: 100%;
 }
